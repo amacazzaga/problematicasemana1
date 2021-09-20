@@ -7,7 +7,7 @@
 
 ## Author
 
-Agustin Macazzaga
+Agustín Macazzaga
 
 ---
 
