@@ -346,6 +346,7 @@
 .column.left {
   float: left;
   width: 65%;
+  
 }
 .column.right {
   float: right;
@@ -360,4 +361,7 @@
   
   
   text-align: center;
+}
+.image {
+  width: 700px;
 }
