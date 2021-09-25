@@ -346,11 +346,12 @@
 .column.left {
   float: left;
   width: 65%;
+  margin-left: 10px;
   
 }
 .column.right {
   float: right;
-  width: 35%
+  width: 25%
 }
 .clr {
   content: "";
@@ -359,11 +360,23 @@
 }
 .footer {
   text-align: left;
+  margin-left: 10px;
 }
 .image {
   width: 750px;
 }
 .header {
+  background-color: #B80000;
+}
+.button {
+  font-family: ReithSans,Helvetica,Arial,freesans,sans-serif;;
+  
+  background-color: white;
+  padding: 15px 15px 15px 15px;
+  
+
+}
+.button:hover {
   background-color: #B80000;
 }
   
