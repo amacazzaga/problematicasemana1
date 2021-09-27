@@ -342,10 +342,7 @@
   [hidden] {
     display: none;
 }
-.h1 {
-  font-size: xx-large;
-  font-family: ReithSerif,Helvetica,Arial,freesans,sans-serif;
-}
+
 .science {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-decoration: underline  #B80000;
@@ -366,6 +363,7 @@
   background-color: #B80000 ;
   color: white;
   padding: 10px 12px; 
+
  }
 .column.left {
   float: left;
@@ -388,7 +386,7 @@
   margin-left: 10px;
 }
 .img {
-margin-top: 15px;
+margin-top: 25px;
   
  
 }
@@ -431,7 +429,9 @@ margin-top: 15px;
    background-color:rgb(49, 48, 48);
    color :white;
  }
-
+.buttons {
+  margin-top: 25px;
+}
  .link1{
    font-family:ReithSans,Helvetica,Arial,freesans,sans-serif;
    color: #B80000;
