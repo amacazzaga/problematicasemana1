@@ -342,6 +342,13 @@
   [hidden] {
     display: none;
 }
+.header {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  height: 150px;
+  font-size: x-large;
+}
 
 .science {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -366,15 +373,23 @@
 
  }
 .column.left {
+  padding: 15px;
   float: left;
-  width: 65%;
+  width: 70%;
   margin-left: 10px;
  
   
 }
+.apadding{
+
+  padding: 10px;
+}
 .column.right {
   float: right;
-  width: 25%
+  width: 25%;
+  padding: 15px 5px 5px 5px;
+  
+  
 }
 .clr {
   content: "";
@@ -387,6 +402,7 @@
 }
 .img {
 margin-top: 25px;
+
   
  
 }
